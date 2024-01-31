@@ -40,7 +40,7 @@ Data Sampling Techniques Used:
 
 #  Model Results
 
-<img width="451" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/3eeab4cb-06c9-488c-a46a-f9cedccb66b8">
+<img width="458" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/72ff2efd-d3c7-4b0a-bec1-e2f4f13c68ed">
 
 <img width="291" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/ff01f89d-f14f-49d7-987e-fcaadfe47c39">
 
