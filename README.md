@@ -3,7 +3,7 @@ Performance evaluation of various machine learning classification algorithms to 
 
 
 #  Dataset Source
-Data has been collected from Kaggle and the records are from a bank/credit card issuer without sensitive personal information. The dataset contains the demographic information (like age, gender, marriage, and income) of their customers and the records of their previous history of loan payments and defaults.
+Data has been collected from [Kaggle]([https://pages.github.com/](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction?select=application_record.csv)) and the records are from a bank/credit card issuer without sensitive personal information. The dataset contains the demographic information (like age, gender, marriage, and income) of their customers and the records of their previous history of loan payments and defaults.
 
 
 #  Project Overview
