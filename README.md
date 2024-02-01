@@ -40,9 +40,13 @@ Data Sampling Techniques Used:
 
 #  Model Results
 
+<pre>
+  
 <img width="458" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/72ff2efd-d3c7-4b0a-bec1-e2f4f13c68ed">
 
 <img width="291" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/ff01f89d-f14f-49d7-987e-fcaadfe47c39">
+
+</pre>
 
 After evaluating multiple models and applying multiple sampling techniques and hyperparameter tuning Balanced Random Forest with its default parameters stands out with its well-rounded performance giving us the highest recall value of 0.69 and the highest number of True Positives (TP) of 268 making it the optimal choice for identifying the default cases. The accuracy is 77% the F1-score is 0.52 and we have the lowest EER score of 0.33 suggesting a good class balance indicating giving us an overall high classification accuracy.
 
