@@ -48,9 +48,13 @@ Performance Metrics:
 #  Model Results
 
 <pre>
+
+Comparison of Accuracy, Recall and Equal Error Rate(EER)
   
 <img width="458" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/72ff2efd-d3c7-4b0a-bec1-e2f4f13c68ed">
 
+Confusion Matrix
+  
 <img width="291" alt="image" src="https://github.com/alishba0133/Creditcarddefaultprediction/assets/40602824/ff01f89d-f14f-49d7-987e-fcaadfe47c39">
 
 </pre>
