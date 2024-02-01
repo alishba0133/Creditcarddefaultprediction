@@ -38,6 +38,13 @@ Data Sampling Techniques Used:
 6. Random Oversampling
 7. Random Undersampling
 
+Performance Metrics:
+1. Accuracy
+2. F1-Score
+3. Recall
+4. AUC-ROC
+5. Equal Error Rate(EER)
+
 #  Model Results
 
 <pre>
