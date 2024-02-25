@@ -7,7 +7,7 @@ Data has been collected from [Kaggle](https://www.kaggle.com/datasets/rikdifos/c
 
 
 #  Project Overview
-This project aims to address the imbalance data problem by comparing and analyzing 17 different machine learning classification algorithms to find the optimal model for accurately detecting whether a loan application should be approved.
+This project aims to address the imbalance data problem by comparing and analyzing 17 different machine learning classification algorithms to find the optimal model for accurately detecting whether a credit card application should be approved.
 We aim to identify an optimal model that minimizes bias and accurately predicts the minority class. The evaluation of model performance will primarily focus on the Equal Error Rate (EER), calculated by dividing the total number of incorrect predictions by the dataset's overall size. Given the inadequacy of accuracy for imbalanced datasets due to bias, we will steer clear of using it to compare models. Instead, we will employ alternative evaluation metrics such as EER, ROC-AUC, recall, and F1-Score to gauge the model's effectiveness in precisely predicting the desired outcomes.
 
 Machine Learning Models Used:
